@@ -1,5 +1,5 @@
 <?php 
-$pararLoop = 20;
+$pararLoop = 15;
 $numero = 0;
 
 
